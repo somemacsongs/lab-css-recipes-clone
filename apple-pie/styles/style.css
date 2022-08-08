@@ -16,8 +16,8 @@ div {
     font-size: 30px;
     text-align: center;
     margin-bottom: 50px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
     text-align: justify;
 }
 
@@ -30,18 +30,18 @@ div {
 p {
     font-family: "Copperlate", monospace;
     font-size: 30px;
-    margin-left: 100px;
+    margin-left: 150px;
 }
 
 .list{
     font-family: "Copperlate", monospace;
     font-size: 25px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
     text-align: justify;
 }
 
 hr {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
